@@ -4,7 +4,7 @@ A real-time, ID-agnostic suspect tracking system that maintains subject identity
 
 **Demo:** [YouTube](https://youtu.be/KcyQ4VLN4mo)
 
-![image-20260306235819778](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20260306235819778.png)
+![Demo-Picture](Pic-Demo.png)
 
 ---
 
@@ -84,5 +84,6 @@ python evolv_reid_system.py
 Camera 1 opens in an interactive window. 
 
 **Click any detected person to designate them as the target.** 
+
 
 The pipeline builds their feature bank automatically, then renders a side-by-side dual-camera output to `evolv_split_demo.mp4`.
